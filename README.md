@@ -10,7 +10,7 @@ Everything you need for the Live Coding 101 Workshop!
 3. [**Atom**](https://atom.io/)
   - a multi-purpose code editor, always useful to have when coding
 4. [**Discord**](https://discord.com/new)
-  - we will be using a Discord server to easily share code, share screens, share url's and more.
+  - we will be using a Discord server to easily share code, share screens, share url's and be social. We will share the Discord server invite via the mail.
 5. [**BlackHoleAudio**](https://existential.audio/blackhole/?pk_campaign=github&pk_kwd=release) for MacOS or [**VB-Cables**](https://www.vb-audio.com/Cable/) for Windows
   - This software allows you to route sound internally from one application to another, for example if you want to share your sound over Discord, or Jitsi, Zoom, Skype, you name it.
 6. [**OBS**](https://obsproject.com/)
