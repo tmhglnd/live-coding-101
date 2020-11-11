@@ -1,8 +1,8 @@
 # live-coding-101
 
-Everything you need for the Live Coding 101 Workshop!
+Everything you need for the Live Coding 101 Workshop! Please Install all the software listed under [Please Install](#please-install). If you are interested in livestreaming music, visuals and code please also follow the instructions under [Livestream](#livestream).
 
-# We are
+# About us
 
 - [Saskia Freeke](https://sasj.nl/portfolio/)
 - [Timo Hoogland](http://www.timohoogland.com)
@@ -13,7 +13,8 @@ Everything you need for the Live Coding 101 Workshop!
 
 - Laptop (Windows 10, MacOS 10.12+)
 	- with Minimum of 4GB Ram and Intel i5 processor
-- Headphones (wired)
+	- Decent wifi connection
+- Headphones (wired) & microphone
 
 # Please install
 
@@ -30,7 +31,9 @@ Everything you need for the Live Coding 101 Workshop!
 7. [**Zoom**](https://zoom.us/download)
   	- To give the workshop for the entire group and easily breakout into smaller groups we will use Zoom.
 	
-# If you want to livestream and share
+# Livestream
+
+If you want to livestream and share please install the following:
 
 1. [**OBS**](https://obsproject.com/)
   	- This platform allows you to livestream or record your screen or seperate windows from applications. Very helpful if you like to record your works or want to go live on Youtube, Twitch, Facebook or where-ever.
