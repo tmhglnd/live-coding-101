@@ -42,6 +42,19 @@ If you want to livestream and share please install the following:
 3. [**Youtube Live**](https://studio.youtube.com/video/2Se7fskJZCo/livestreaming)
 	- Create a youtube account and activate it for live stream, this will require you to wait 24h so make sure you've done this before the workshop day.
 
+# Other
+
+Some other useful software for sharing images/visuals/webcam as virtual devices between platforms like OBS, Zoom, Jitsi, Skype on your computer.
+
+- [**CamTwistHD**](http://camtwiststudio.com/download/) (Mac Only)
+	- Create a virtual camera device, allowing you to reroute visuals from for example desktop/browser to platforms like Skype, Jitsi and Zoom.
+- [**OBS Virtual Cam**](https://github.com/johnboiles/obs-mac-virtualcam/releases/tag/v1.2.1) for Mac
+- [**OBS Virtual Cam**](https://github.com/Fenrirthviti/obs-virtual-cam/releases) for Windows
+- [**NDISyphon**](https://docs.vidvox.net/freebies_ndi_syphon.html)
+	- Capture Syphon textures and send over network with NDI protocol
+- [**NDITools**](https://ndi.tv/tools/)
+	- Especially the NDI Virtual Input is useful!
+
 # Workshop Schedule
 
 ### Day 1 (Saturday 21 Nov)
