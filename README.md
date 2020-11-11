@@ -9,6 +9,12 @@ Everything you need for the Live Coding 101 Workshop!
 - [Jonathan Reus](https://jonathanreus.com/)
 - [Instrument Inventors Initiative (iii)](https://instrumentinventors.org/)
 
+# Computer Requirements
+
+- Laptop (Windows 10, MacOS 10.12+)
+	- with Minimum of 4GB Ram and Intel i5 processor
+- Headphones (wired)
+
 # Please install
 
 1. [**Google Chrome**](https://www.google.com/chrome/)
