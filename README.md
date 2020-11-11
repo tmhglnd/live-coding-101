@@ -57,7 +57,7 @@ Some other useful software for sharing images/visuals/webcam as virtual devices 
 - [**NDISyphon**](https://docs.vidvox.net/freebies_ndi_syphon.html) (Mac Only)
 	- Send Syphon video over network with NDI protocol
 - [**NDITools**](https://ndi.tv/tools/)
-	- Especially the NDI Virtual Input is useful!
+	- The NDI Virtual Input is especially useful as virtual webcam device
 
 # Workshop Schedule
 
