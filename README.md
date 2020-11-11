@@ -50,8 +50,12 @@ Some other useful software for sharing images/visuals/webcam as virtual devices 
 	- Create a virtual camera device, allowing you to reroute visuals from for example desktop/browser to platforms like Skype, Jitsi and Zoom.
 - [**OBS Virtual Cam**](https://github.com/johnboiles/obs-mac-virtualcam/releases/tag/v1.2.1) for Mac
 - [**OBS Virtual Cam**](https://github.com/Fenrirthviti/obs-virtual-cam/releases) for Windows
-- [**NDISyphon**](https://docs.vidvox.net/freebies_ndi_syphon.html)
-	- Capture Syphon textures and send over network with NDI protocol
+- [**Spout**](https://spout.zeal.co/) (Windows only)
+	- Share video between applications on Windows
+- [**SpoutToNDI / SpoutCam**](https://leadedge.github.io/) (Windows only)
+	- Send Spout video over network with NDI protocol or create a virtual camera for Spout
+- [**NDISyphon**](https://docs.vidvox.net/freebies_ndi_syphon.html) (Mac Only)
+	- Send Syphon video over network with NDI protocol
 - [**NDITools**](https://ndi.tv/tools/)
 	- Especially the NDI Virtual Input is useful!
 
