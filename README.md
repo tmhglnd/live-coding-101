@@ -48,7 +48,7 @@ Some other useful software for sharing images/visuals/webcam as virtual devices 
 
 - [**CamTwistHD**](http://camtwiststudio.com/download/) (Mac Only)
 	- Create a virtual camera device, allowing you to reroute visuals from for example desktop/browser to platforms like Skype, Jitsi and Zoom.
-- **OBS Virtual Cam** [for Mac](https://github.com/johnboiles/obs-mac-virtualcam/releases/tag/v1.2.1) or [for Windows](https://github.com/Fenrirthviti/obs-virtual-cam/releases) for Windows
+- **OBS Virtual Cam** [for Mac](https://github.com/johnboiles/obs-mac-virtualcam/releases/tag/v1.2.1) or [for Windows](https://github.com/Fenrirthviti/obs-virtual-cam/releases)
 - [**Spout**](https://spout.zeal.co/) (Windows only)
 	- Share video between applications on Windows
 - [**SpoutToNDI / SpoutCam**](https://leadedge.github.io/) (Windows only)
