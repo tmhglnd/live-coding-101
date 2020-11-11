@@ -46,19 +46,19 @@ If you want to livestream and share please install the following:
 
 ### Day 1 (Saturday 21 Nov)
 
-*10.45 - 11.00 Virtual "Walk-in"*
+>*10.45 - 11.00 Virtual "Walk-in"*
 
 11.00 - 11.45 Introductions
 
-*11.45 - 12.00 SHORT BREAK*
+>*11.45 - 12.00 SHORT BREAK*
 
 12.00 - 12.45 Mercury Session #1.1
 
-*12.45 - 13.30 LUNCH BREAK*
+>*12.45 - 13.30 LUNCH BREAK*
 
 13.30 - 15.00 Mercury Session #1.2
 
-*15.00 - 15.30 SHORT BREAK*
+>*15.00 - 15.30 SHORT BREAK*
 
 15.30 - 17.30 Hydra Session #1
 
@@ -66,13 +66,17 @@ If you want to livestream and share please install the following:
 
 ### Day 2 (Sunday 22 Nov)
 
-*11.45 - 12.00 Virtual "Walk-in"*
+>*11.45 - 12.00 Virtual "Walk-in"*
 
 12.00 - 13.30 Mercury / Hydra Session #2 (parallel)
 
-*13.30 - 14.15 LUNCH BREAK*
+>*13.30 - 14.15 LUNCH BREAK*
 
 14.15 - 16.00 Free play, optionally with collaborative platforms like Flok, Troop, or try streaming with Youtube
+
+### Day 2 Evening (Sunday 22 Nov)
+
+>*19.00 - 19.30 Sound/Visual Check livestreams*
 
 19.30 - 20.00 Participate in Online Algorave
 
