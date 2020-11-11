@@ -72,9 +72,7 @@ If you want to livestream and share please install the following:
 
 *13.30 - 14.15 LUNCH BREAK*
 
-14.15 - 16.15 Free play, optionally with collaborative platforms like Flok, Troop, or try streaming with Youtube
-
-- Also introduction to collaboration and Software/Platforms (Flock, Troop, OBS, Twitch, Youtube) for collaboration and live streaming
+14.15 - 16.00 Free play, optionally with collaborative platforms like Flok, Troop, or try streaming with Youtube
 
 19.30 - 20.00 Participate in Online Algorave
 
