@@ -41,3 +41,41 @@ If you want to livestream and share please install the following:
   	- This software allows you to route sound internally from one application to another, for example if you want to share your sound over Discord, or Jitsi, Zoom, Skype, you name it.
 3. [**Youtube Live**](https://studio.youtube.com/video/2Se7fskJZCo/livestreaming)
 	- Create a youtube account and activate it for live stream, this will require you to wait 24h so make sure you've done this before the workshop day.
+
+# Workshop Schedule
+
+### Day 1 (Saturday 21 Nov)
+
+*10.45 - 11.00 Virtual "Walk-in"*
+
+11.00 - 11.45 Introductions
+
+*11.45 - 12.00 SHORT BREAK*
+
+12.00 - 12.45 Mercury Session #1.1
+
+*12.45 - 13.30 LUNCH BREAK*
+
+13.30 - 15.00 Mercury Session #1.2
+
+*15.00 - 15.30 SHORT BREAK*
+
+15.30 - 17.30 Hydra Session #1
+
+17.30 - 18.00 Free Play with Mercury or Hydra
+
+### Day 2 (Sunday 22 Nov)
+
+*11.45 - 12.00 Virtual "Walk-in"*
+
+12.00 - 13.30 Mercury / Hydra Session #2 (parallel)
+
+*13.30 - 14.15 LUNCH BREAK*
+
+14.15 - 16.15 Free play, optionally with collaborative platforms like Flok, Troop, or try streaming with Youtube
+
+- Also introduction to collaboration and Software/Platforms (Flock, Troop, OBS, Twitch, Youtube) for collaboration and live streaming
+
+19.30 - 20.00 Participate in Online Algorave
+
+20.30 - 00.00 iii NL_CL Algorave (Livestream at [Eulerroom](https://www.youtube.com/channel/UC_N48pxd05dX53_8vov8zqA))
