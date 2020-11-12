@@ -27,21 +27,21 @@ Everything you need for the Live Coding 101 Workshop! Please Install all the sof
 3. [**Atom**](https://atom.io/)
   	- a multi-purpose code editor, always useful to have when coding
 6. [**Discord**](https://discord.com/new)
-  	- We will be using a Discord server to easily share code, share screens, share url's and more. We will share the Discord server invite via the mail.
-7. [**Zoom**](https://zoom.us/download)
-  	- To give the workshop for the entire group and easily breakout into smaller groups we will use Zoom.
+  	- Please install Discord and make an account. We will be using a Discord server to easily share code, share screens, share url's and more. We will share the Discord server invite via the mail.
 	
 # Livestream
 
 If you want to livestream and share please install the following:
 
-1. [**OBS**](https://obsproject.com/)
-  	- This platform allows you to livestream or record your screen or seperate windows from applications. Very helpful if you like to record your works or want to go live on Youtube, Twitch, Facebook or where-ever.
-2. [**BlackHoleAudio**](https://existential.audio/blackhole/?pk_campaign=github&pk_kwd=release) for MacOS or [**VB-Cables**](https://www.vb-audio.com/Cable/) for Windows
-  	- This software allows you to route sound internally from one application to another, for example if you want to share your sound over Discord, or Jitsi, Zoom, Skype, you name it.
-3. [**Youtube Live**](https://studio.youtube.com/video/2Se7fskJZCo/livestreaming)
+1. [**Youtube Live**](https://studio.youtube.com/video/2Se7fskJZCo/livestreaming)
 	- Create a youtube account and activate it for live stream, this will require you to wait 24h so make sure you've done this before the workshop day.
-
+2. [**OBS**](https://obsproject.com/)
+  	- This platform allows you to livestream or record your screen or seperate windows from applications. Very helpful if you like to record your works or want to go live on Youtube, Twitch, Facebook or where-ever.
+3. [**BlackHoleAudio**](https://existential.audio/blackhole/?pk_campaign=github&pk_kwd=release) for MacOS
+	- This software allows you to route sound internally from one application to another, for example if you want to share your sound over Discord, or Jitsi, Zoom, Skype, you name it.
+3. [**VB-Cables**](https://www.vb-audio.com/Cable/) for Windows
+  	- This software allows you to route sound internally from one application to another, for example if you want to share your sound over Discord, or Jitsi, Zoom, Skype, you name it.
+	
 # Other
 
 Some other useful software for sharing images/visuals/webcam as virtual devices between platforms like OBS, Zoom, Jitsi, Skype on your computer.
