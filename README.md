@@ -29,6 +29,8 @@ Everything you need for the Live Coding 101 Workshop! Please Install all the sof
 6. [**Discord**](https://discord.com/new)
   	- Please install Discord and make an account. We will be using a Discord server to easily share code, share screens, share url's and more. We will share the Discord server invite via the mail.
 	
+>If you have any issues with installing any of the software feel free to post a message in the Discord or send an e-mail.
+	
 # Livestream
 
 If you want to livestream and share please install the following:
