@@ -1,8 +1,8 @@
-# live-coding-101
+# Live Coding 101
 
 Everything you need for the Crash-course Live Coding Workshop! For this workshop you don't need to install any additional software expect for a chromium based browser (like Google Chrome). If you are interested in livestreaming music, visuals and code please also follow the instructions under [Livestream](#livestream).
 
-# Workshop Schedule
+# 🗓 Workshop Schedule
 
 >*13.30 - 14.00 WALK-IN*
 
@@ -16,26 +16,44 @@ Everything you need for the Crash-course Live Coding Workshop! For this workshop
 
 >*18.00 END*
 
-# Live Coding Platforms
+# 📟 Live Coding Platforms
 
-- 📟 [Hydra](http://hydra.ojack.xyz)
-- 🚀 [Mercury](http://mercury.timohoogland.com)
+- [**Hydra**](http://hydra.ojack.xyz)
+- [**Mercury**](http://mercury.timohoogland.com)
 
-# About us
+# ⚡️ Interesting links
+
+- [Netherlands Coding Live Community](https://netherlands-coding-live.github.io/)
+- [TOPLAP Live Coding Forum](https://forum.toplap.org/c/communities/nl/18)
+- [Mercury Discord Server](https://discord.gg/vt59NYU)
+
+# 📖 Documentation
+
+- [Hydra Functions](https://ojack.xyz/hydra-functions/)
+- [Hydra Documentation](https://github.com/ojack/hydra#Getting-Started)
+- [Mercury Tutorial](https://tmhglnd.github.io/mercury/tutorial.html)
+- [Mercury Documentation](https://tmhglnd.github.io/mercury/reference.html)
+
+# 👩‍💻👨‍💻 Collaborative Coding
+
+You can code together in Hydra (or Mercury) with for example the [FLOK browser editor](https://flok.clic.cf/). For Mercury this is a bit more complicated, but you can follow the steps here:
+
+- [Collaborative Coding with Mercury in FLOK](https://tmhglnd.github.io/mercury/tutorial.html)
+# 👋 About us
 
 - [Saskia Freeke](https://sasj.nl/portfolio/)
 - [Timo Hoogland](http://www.timohoogland.com)
 <!-- - [Jonathan Reus](https://jonathanreus.com/) -->
 <!-- - [Instrument Inventors Initiative (iii)](https://instrumentinventors.org/) -->
 
-## Computer Requirements
+## 💻 Computer Requirements
 
 - Laptop (Windows 10, MacOS 10.12+)
 	- with Minimum of 4GB Ram and Intel i5 processor
 	- Decent wifi connection
 - Headphones (wired) & microphone
 
-## Please install
+## 🕹 Useful software
 
 1. [**Google Chrome**](https://www.google.com/chrome/)
 	- A webbrowser that supports WebGL
@@ -51,7 +69,7 @@ Everything you need for the Crash-course Live Coding Workshop! For this workshop
 	
 >If you have any issues with installing any of the software feel free to post a message in the Discord or send an e-mail.
 	
-## Livestream
+## 🛰 Livestream
 
 If you want to livestream and share please install the following:
 
@@ -64,7 +82,7 @@ If you want to livestream and share please install the following:
 3. [**VB-Cables**](https://www.vb-audio.com/Cable/) for Windows
   	- This software allows you to route sound internally from one application to another, for example if you want to share your sound over Discord, or Jitsi, Zoom, Skype, you name it.
 	
-## Other
+## 👾 Other
 
 Some other useful software for sharing images/visuals/webcam as virtual devices between platforms like OBS, Zoom, Jitsi, Skype on your computer.
 
