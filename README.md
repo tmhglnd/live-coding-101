@@ -37,7 +37,7 @@ Everything you need for the Crash-course Live Coding Workshop! For this workshop
 
 You can code together in Hydra (or Mercury) with for example the [FLOK browser editor](https://flok.clic.cf/). For Mercury this is a bit more complicated, but you can follow the steps here:
 
-- [Collaborative Coding with Mercury in FLOK](https://tmhglnd.github.io/mercury/tutorial.html)
+- [Collaborative Coding with Mercury in FLOK](https://tmhglnd.github.io/mercury/collaborate.html)
 ## 👋 About us
 
 - [Saskia Freeke](https://sasj.nl/portfolio/)
