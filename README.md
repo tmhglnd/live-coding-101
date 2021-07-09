@@ -1,13 +1,27 @@
 # live-coding-101
 
-Everything you need for the Live Coding 101 Workshop! Please Install all the software listed under [Please Install](#please-install). If you are interested in livestreaming music, visuals and code please also follow the instructions under [Livestream](#livestream).
+Everything you need for the Crash-course Live Coding Workshop! For this workshop you don't need to install any additional software expect for a chromium based browser (like Google Chrome). If you are interested in livestreaming music, visuals and code please also follow the instructions under [Livestream](#livestream).
 
 # About us
 
 - [Saskia Freeke](https://sasj.nl/portfolio/)
 - [Timo Hoogland](http://www.timohoogland.com)
-- [Jonathan Reus](https://jonathanreus.com/)
-- [Instrument Inventors Initiative (iii)](https://instrumentinventors.org/)
+<!-- - [Jonathan Reus](https://jonathanreus.com/) -->
+<!-- - [Instrument Inventors Initiative (iii)](https://instrumentinventors.org/) -->
+
+# Workshop Schedule
+
+>*13.30 - 14.00 WALK-IN*
+
+14.00 - 15.30 Live coding music with Mercury
+
+>*15.30 - 16.00 SHORT BREAK*
+
+16.00 - 16.30 Live coding visuals with Hydra
+
+17.30 - 18.00 Free play with your favorite language
+
+>*18.00 END*
 
 # Computer Requirements
 
@@ -20,13 +34,14 @@ Everything you need for the Live Coding 101 Workshop! Please Install all the sof
 
 1. [**Google Chrome**](https://www.google.com/chrome/)
 	- A webbrowser that supports WebGL
-2. **Max8** for [Windows](https://akiaj5esl75o5wbdcv2a-maxmspjitter.s3.amazonaws.com/Max808_x64_190808.zip) or [Mac](https://akiaj5esl75o5wbdcv2a-maxmspjitter.s3.amazonaws.com/Max808_190808.dmg)
+	- Any other Chromium based browser will suffice (for example Firefox, Opera, Brave)
+<!-- 2. **Max8** for [Windows](https://akiaj5esl75o5wbdcv2a-maxmspjitter.s3.amazonaws.com/Max808_x64_190808.zip) or [Mac](https://akiaj5esl75o5wbdcv2a-maxmspjitter.s3.amazonaws.com/Max808_190808.dmg)
 	- the creative coding environment that Mercury runs in. You do not need to buy a Max license to run Mercury!
 3. [**Mercury**](https://github.com/tmhglnd/mercury/blob/master/docs/tutorial.md#-install-mercury)
-	- By following the instructions in the tutorial chapters **install** and **launch**.
-3. [**Atom**](https://atom.io/)
+	- By following the instructions in the tutorial chapters **install** and **launch**. -->
+2. [**Atom**](https://atom.io/)
   	- a multi-purpose code editor, always useful to have when coding
-6. [**Discord**](https://discord.com/new)
+3. [**Discord**](https://discord.com/new)
   	- Please install Discord and make an account. We will be using a Discord server to easily share code, share screens, share url's and more. We will share the Discord server invite via the mail.
 	
 >If you have any issues with installing any of the software feel free to post a message in the Discord or send an e-mail.
@@ -60,7 +75,9 @@ Some other useful software for sharing images/visuals/webcam as virtual devices 
 - [**NDITools**](https://ndi.tv/tools/)
 	- The NDI Virtual Input is especially useful as virtual webcam device
 
-# Workshop Schedule
+
+<!--
+# Schedule of Live Coding 101 at iii
 
 ### Day 1 (Saturday 21 Nov)
 
@@ -99,3 +116,4 @@ Some other useful software for sharing images/visuals/webcam as virtual devices 
 19.30 - 20.00 Participate in Online Algorave
 
 20.30 - 00.00 iii NL_CL Algorave (Livestream at [Eulerroom](https://www.youtube.com/channel/UC_N48pxd05dX53_8vov8zqA))
+-->
