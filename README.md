@@ -5,12 +5,12 @@ Everything you need for the Crash-course Live Coding Workshop! For this workshop
 
 >*13.00 START*
 
-13.00 - 13.30 Introduction
+13.00 - 13.30 Introduction  
 13:30 - 15:00  Live coding music with Mercury
 
 >*15.00 - 15.30 BREAK*
 
-15.30 - 17.00 Live coding visuals with Hydra
+15.30 - 17.00 Live coding visuals with Hydra  
 17.00 - 17.30 Free play with your favourite language
 
 >*17.30 END*
