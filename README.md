@@ -21,7 +21,7 @@ Everything you need for the Crash-course Live Coding Workshop! For this workshop
 - [**Mercury**](http://mercury.timohoogland.com)
 
 ## ⚡️ Interesting links
-
+- [TOPLAP Community](https://blog.toplap.org/)
 - [Netherlands Coding Live Community](https://netherlands-coding-live.github.io/)
 - [TOPLAP Live Coding Forum](https://forum.toplap.org/c/communities/nl/18)
 - [Mercury Discord Server](https://discord.gg/vt59NYU)
@@ -29,7 +29,7 @@ Everything you need for the Crash-course Live Coding Workshop! For this workshop
 ## 📖 Documentation
 
 - [Hydra Functions](https://ojack.xyz/hydra-functions/)
-- [Hydra Documentation](https://github.com/ojack/hydra#Getting-Started)
+- [Hydra Documentation](https://hydra.ojack.xyz/docs/)
 - [Mercury Tutorial](https://tmhglnd.github.io/mercury/tutorial.html)
 - [Mercury Documentation](https://tmhglnd.github.io/mercury/reference.html)
 
@@ -38,12 +38,12 @@ Everything you need for the Crash-course Live Coding Workshop! For this workshop
 You can code together in Hydra (or Mercury) with for example the [FLOK browser editor](https://flok.clic.cf/). For Mercury this is a bit more complicated, but you can follow the steps here:
 
 - [Collaborative Coding with Mercury in FLOK](https://tmhglnd.github.io/mercury/collaborate.html)
+
 ## 👋 About us
 
 - [Saskia Freeke](https://sasj.nl/portfolio/)
 - [Timo Hoogland](http://www.timohoogland.com)
-<!-- - [Jonathan Reus](https://jonathanreus.com/) -->
-<!-- - [Instrument Inventors Initiative (iii)](https://instrumentinventors.org/) -->
+
 
 ### 💻 Computer Requirements
 
@@ -61,7 +61,7 @@ You can code together in Hydra (or Mercury) with for example the [FLOK browser e
 	- the creative coding environment that Mercury runs in. You do not need to buy a Max license to run Mercury!
 3. [**Mercury**](https://github.com/tmhglnd/mercury/blob/master/docs/tutorial.md#-install-mercury)
 	- By following the instructions in the tutorial chapters **install** and **launch**. -->
-2. [**Atom**](https://atom.io/)
+2. [**Pulsar**](https://pulsar-edit.dev/)
   	- a multi-purpose code editor, always useful to have when coding
 3. [**Discord**](https://discord.com/new)
   	- Please install Discord and make an account. We will be using a Discord server to easily share code, share screens, share url's and more. We will share the Discord server invite via the mail.
