@@ -3,17 +3,17 @@
 Everything you need for the Crash-course Live Coding Workshop! For this workshop you don't need to install any additional software expect for a chromium based browser (like Google Chrome). If you are interested in livestreaming music, visuals and code please also follow the instructions under [Livestream](#livestream).
 ## 🗓 Workshop Schedule
 
->*13.30 - 14.00 WALK-IN*
+>*13.00 START*
 
-14.00 - 15.30 Live coding music with Mercury
+13.00 - 13.30 Introduction
+13:30 - 15:00  Live coding music with Mercury
 
->*15.30 - 16.00 SHORT BREAK*
+>*15.00 - 15.30 BREAK*
 
-16.00 - 16.30 Live coding visuals with Hydra
+15.30 - 17.00 Live coding visuals with Hydra
+17.00 - 17.30 Free play with your favourite language
 
-17.30 - 18.00 Free play with your favorite language
-
->*18.00 END*
+>*17.30 END*
 
 ## 📟 Live Coding Platforms
 
