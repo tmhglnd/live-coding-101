@@ -56,14 +56,14 @@ You can code together in Hydra (or Mercury) with for example the [FLOK browser e
 ### 🕹 Useful software
 
 1. [**Brave Browser**](https://brave.com/)
-	- A webbrowser that supports WebGL
-	- Any other Chromium based browser will suffice (for example Firefox, Opera, Brave)
+	- A webbrowser that supports WebGL, WebAudio and WebMIDI
+	- But any chromium based browser will suffice (for example Firefox, Opera, Brave, Arc, Chrome)
 2. [**Pulsar**](https://pulsar-edit.dev/)
   	- a multi-purpose code editor, always useful to have when coding
 <!-- 3. [**Discord**](https://discord.com/new) -->
 <!-- - Please install Discord and make an account. We will be using a Discord server to easily share code, share screens, share url's and more. We will share the Discord server invite via the mail. -->
 	
->If you have any issues with installing any of the software feel free to post a message in the Discord or send an e-mail.
+<!-- >If you have any issues with installing any of the software feel free to post a message in the Discord or send an e-mail. -->
 	
 ### 🛰 Livestream
 
