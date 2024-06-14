@@ -26,6 +26,7 @@ Everything you need for the crash-course Live Coding Workshop! For this workshop
 - [TOPLAP Community](https://blog.toplap.org/)
 - [TOPLAP Live Coding Forum](https://forum.toplap.org/c/communities/nl/18)
 - [Mercury Discord Server](https://discord.gg/vt59NYU)
+- [All things live coding](https://github.com/toplap/awesome-livecoding)
 
 ## 📖 Documentation
 
