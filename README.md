@@ -30,7 +30,7 @@ Everything you need for the crash-course Live Coding Workshop! For this workshop
 
 ## 📖 Documentation
 
-- [Hydra Functions](https://ojack.xyz/hydra-functions/)
+- [Hydra Functions](https://hydra.ojack.xyz/api/)
 - [Hydra Documentation](https://hydra.ojack.xyz/docs/)
 - [Mercury Tutorial](https://tmhglnd.github.io/mercury-docs/docs/usage/coding)
 - [Online Tutorials](http://mercury.timohoogland.com)
